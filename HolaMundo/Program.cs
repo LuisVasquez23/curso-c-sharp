@@ -1,11 +1,13 @@
 ﻿using System;
 
-class Program {
-    public static void Main(string[] args) {
+class Program
+{
+    public static void Main(string[] args)
+    {
 
-        Console.WriteLine("Hola Mundo");
+        Console.WriteLine("Hello world!");
 
-        Console.WriteLine("Preciona cualquier tecla para continuar...");
+        Console.WriteLine("Press any key to continue...");
         Console.ReadKey();
     }
 }
