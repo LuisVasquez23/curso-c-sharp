@@ -1,0 +1,68 @@
+# .NET Core / .NET 5+ / Visual Studio
+
+## User-specific files
+.idea/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## User-specific files (Windows)
+Thumbs.db
+Desktop.ini
+
+## Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]ist/
+[Dd]ebug-*/ 
+[Dd]evelopment/
+bin/
+obj/
+
+## Uncomment if you have tasks that create project's project's binaries
+# ReSharper
+_ReSharper.Caches/
+
+## Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+## Windows Installer files (Windows Installer 3.x)
+*.cab
+*.msi
+*.msm
+*.msp
+
+## Windows Installer files (Visual Studio)
+*.exe
+
+## Windows Installer files (NuGet Packages)
+*.nupkg
+
+# User-specific files for VS
+.vs2019/
+.vs2017/
+.vs/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# User-specific files for Rider
+.idea/
+
+# .NET Core, .NET Framework & Xamarin
+.vscode/
+
+# Build results
+bin/
+obj/
+
+# Configuration folder
+.config/
+
+# Application Insights
+ApplicationInsights.config
